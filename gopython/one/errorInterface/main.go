@@ -28,4 +28,5 @@ func main() {
 		fmt.Println(err, ok)
 	}
 
+	fmt.Println("hello git")
 }

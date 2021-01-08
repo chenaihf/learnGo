@@ -34,4 +34,5 @@ func main() {
 	fmt.Println(courses)
 	sort.Sort(courses)
 	fmt.Println(courses)
+	fmt.Println("hello git")
 }
